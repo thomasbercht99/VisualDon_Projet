@@ -20,4 +20,6 @@ Les données sont au format .csv. Elles sont triées en 6 colonnes différentes:
 
 
 But: qu'est-ce que vous voulez découvrir ? Des tendances ? Vous voulez explorer ou expliquer?
+Nous avons pour but d'offrir la possibilité de facilement obtenir des exercices lorsqu'on pa
+
 Références: Qui d'autre dans le web ou dans la recherche a utilisé ces données ? Dans quel but ?
