@@ -26,3 +26,5 @@ Nous avons pour but d'expliquer tous les exercices de musculation qui existent. 
 
 ## Références
 Qui d'autre dans le web ou dans la recherche a utilisé ces données ? Dans quel but ?
+
+https://www.kaggle.com/edoardoba/fitness-exercises-with-animations
