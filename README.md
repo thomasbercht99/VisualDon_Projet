@@ -2,7 +2,7 @@
 
 ## 🏋️‍♀️🏋️‍♂️Fitness Exercises🏋️‍♀️🏋️‍♂️
 
-### Projet pratique de VisualDon. 
+### Projet pratique de Visualisation de données 
 ### Groupe: Thomas Bercht et Dorian Alewa M49-2
 
 
