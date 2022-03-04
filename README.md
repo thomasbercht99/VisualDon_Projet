@@ -1,8 +1,10 @@
 # VisualDon_Projet
-Projet pratique de VisualDon. 
-Groupe: Thomas Bercht et Dorian Alewa M49-2
 
-🏋️‍♀️🏋️‍♂️Fitness Exercises🏋️‍♀️🏋️‍♂️
+## 🏋️‍♀️🏋️‍♂️Fitness Exercises🏋️‍♀️🏋️‍♂️
+
+### Projet pratique de VisualDon. 
+### Groupe: Thomas Bercht et Dorian Alewa M49-2
+
 
 ## Contexte
 Le dataset a été créé par Edoardo Cantagallo. Il contient un jeu de données avec 1300 exercices de musculation avec des données d'exercices et des animations. Le dataset est regulièrement mis à jour depuis 2016.
