@@ -29,4 +29,6 @@ Nous avons pour but d'expliquer tous les exercices de musculation qui existent. 
 ## Références
 Qui d'autre dans le web ou dans la recherche a utilisé ces données ? Dans quel but ?
 
+Nous n'avons pas trouvé un site web utilisant exactement les mêmes données mais MuscleWiki est un site dans lequel il est possible d'y retrouver un corps humain cliquable par l'utilisateur afin de retrouver les exercices de musculations correspond au muscle cliqué. Ce qui rejoint ce que nous souhaitons réalisé.
+
 https://www.kaggle.com/edoardoba/fitness-exercises-with-animations
