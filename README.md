@@ -31,7 +31,4 @@ Qui d'autre dans le web ou dans la recherche a utilisé ces données ? Dans quel
 
 Nous n'avons pas trouvé un site web utilisant exactement les mêmes données mais MuscleWiki est un site dans lequel il est possible d'y retrouver un corps humain cliquable par l'utilisateur afin de retrouver les exercices de musculations correspond au muscle cliqué. Ce qui rejoint ce que nous souhaitons réalisé.
 
-https://www.kaggle.com/edoardoba/fitness-exercises-with-animations
-
-
-[Wireframe - VisualDon.pdf](https://github.com/thomasbercht99/VisualDon_Projet/files/8305281/Wireframe.-.VisualDon.pdf)
+Lien du dataset : https://www.kaggle.com/edoardoba/fitness-exercises-with-animations
