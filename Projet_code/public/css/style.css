@@ -51,16 +51,19 @@ float: left;
       margin: 0px;
       top: 0px;
       text-align: center;
-
 }
-
+.a-retour {
+      padding-top: 50px;
+      padding-left: 20px;
+      float: left;
+      position: relative;
+}
+.a-retour .retour{
+      position: absolute;
+}
 .logo {
       margin-top: 1%;
       margin-bottom: 1%;
-      align-items: center !important;
-      justify-content: center !important;
-
-
 }
 
 .retour {
