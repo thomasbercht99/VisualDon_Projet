@@ -1,0 +1,82 @@
+* {
+      font-family: monospace !important;
+    }
+body {
+      font-family: 'Roboto';
+      background-color: #2F4C58;
+      margin : 0px;
+      padding : 0px;
+}
+
+h1 {
+      font-family: "Montserrat";
+      color:white;
+      font-size: 4.5rem;
+      /* margin-left: 10%;
+      margin-top: 5%; */
+      font-weight: bold;
+      text-align: center;
+}
+
+p {
+      font-family: "Roboto";
+      color:white;
+      font-size:18px;
+      margin-left: 10%;
+      margin-right: 10%;
+      line-height: 150%;
+
+}
+h3, h4, h2, span {
+      font-family: "Montserrat" !important;
+      font-size:18px;
+      color: white;
+      margin-left: 10%;
+      margin-right: 10%;
+}
+      
+button{
+      font-family: "Roboto";
+      /* margin-left: -85%; */
+      color: white;
+      background-color: #2F4C58;
+      padding: 10px;
+      border-radius: 30px;
+float: left;
+}
+
+
+.page-header {
+      background-color: #E4DBD9;
+      margin: 0px;
+      top: 0px;
+      text-align: center;
+
+}
+
+.logo {
+      margin-top: 1%;
+      margin-bottom: 1%;
+      align-items: center !important;
+      justify-content: center !important;
+
+
+}
+
+.retour {
+      margin-top: 3%;
+      margin-bottom: 1%;
+      margin-left: 10%;
+
+}
+
+.back-to-top {
+      position: fixed;
+      right: 2rem;
+      bottom: 2rem;
+      cursor: pointer;
+}
+
+
+
+
